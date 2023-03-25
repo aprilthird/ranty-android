@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RantyApp</string>
+    <string name="title_activity_auth">AuthActivity</string>
+
+    <!--Button Text-->
+    <string name="start_button_text">Iniciar con Ranty</string>
+    <string name="login_button_text">Ingresar</string>
+    <string name="login_facebook_button_text">Continuar con Facebook</string>
+    <string name="login_google_button_text">Continuar con Google</string>
+    <string name="register_button_text">Regístrate</string>
+    <string name="next_button_text">Siguiente</string>
+
+    <!--Title-->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Registro</string>
+
+    <!--Form Fields-->
+    <string name="useroremail_field">Usuario o Email</string>
+    <string name="password_field">Contraseña</string>
+
+    <!-- Content Description -->
+    <string name="logo_content_description">logo</string>
+    <string name="onboarding_content_description">onboarding</string>
+</resources>
